@@ -1,5 +1,5 @@
 import App from "./App3";
-import Gallery from "./Gallery";
+import { Gallery } from "./Gallery";
 import PackingList from "./PackingList";
 
 export default function Atv03() {
