@@ -1,14 +1,14 @@
-import AppExemplo from "./App3";
-import GalleryExemplo from "./Gallery";
-import PackingExemplo from "./PackingList";
+import App from "./App3";
+import Gallery from "./Gallery";
+import PackingList from "./PackingList";
 
 export default function Atv03() {
   return (
     <>
         <h2>Semana 3</h2>
-        <AppExemplo/>
-        <GalleryExemplo/>
-        <PackingExemplo/>
+        <App/>
+        <Gallery/>
+        <PackingList/>
     </>
   );
 }
