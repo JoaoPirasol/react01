@@ -1,5 +1,5 @@
-import Letreiro from "Semana1/Letreiro";
-import Relogio from "Semana1/Relogio";
+import Letreiro from "./Letreiro";
+import Relogio from "./Relogio";
 
 export default function Atv01() {
   return (
