@@ -4,7 +4,7 @@ import CounterList from "./CounterList";
 import Form from "./Form";
 import Form2 from "./Form2";
 import Form3 from "./Form3";
-// import Gallery from "./Gallery1";
+import Gallery from "./Gallery1";
 import List from "./List";
 import List2 from "./List2";
 import List3 from "./List3";
@@ -24,7 +24,7 @@ export default function Atv0() {
         <Form/>
         <Form2/>
         <Form3/>
-        {/* <Gallery/> */}
+        <Gallery/> 
         <List/>
         <List2/>
         <List3/>
