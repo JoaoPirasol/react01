@@ -18,7 +18,7 @@ export default function Atv04() {
   return (
     <>
         <h2>Semana 4</h2>
-        <BucketList/>
+        {/* <BucketList/>
         <Counter/>
         <CounterList/>
         <Form/>
@@ -31,7 +31,7 @@ export default function Atv04() {
         <List4/>
         <MovingDot/>
         <ShapeEditor/>
-        <Toolbar/>
+        <Toolbar/> */}
 
     </>
   );
